@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Downloads
+server/downloads/
+
+# Environment variables
+.env
+
+# System files
+.DS_Store
+Thumbs.db
