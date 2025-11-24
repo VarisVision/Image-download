@@ -13,4 +13,4 @@ A Claude AI project for Know How Flooring (22.11.2025) is saved for generating c
 5. Create or check categories in WordPress
     a. Optional: Rename newly generated categories after step 6
 6. In Claude, write: "Generate import CSV file" and add the data collection file from step 2
-7. Review the results
+7. Review the results!
